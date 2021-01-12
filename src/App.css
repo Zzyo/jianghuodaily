@@ -1,0 +1,32 @@
+table {
+    width: 900px;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+th,td {
+    border: 1px dotted #999;
+    padding: 5px;
+}
+.head {
+    height: 30px;
+    background-color: #DDD;
+    text-align: center;
+}
+.body {
+    height: 140px;
+    vertical-align: baseline;
+}
+caption {
+    text-align: left;
+}
+.special {
+    background-color: #AAA;
+}
+input {
+    margin-right: 5px;
+
+}
+ul {
+    list-style: none;
+    margin-left: -15px;
+}
